@@ -34,7 +34,7 @@ We offer 3 types of Splashcreen image resize modes:
 
 - open your file `myProject.xcworkspace` in XCode
 - right-click on your project folder > "New file..." > "Launch Screen" > "Save as: SplashScreen"
-- `react-native set-splash --path <path-to-image> --resize <[contain]|cover|center> --background "<background-color>"`  
+- `react-native set-splash --path <path-to-image> --resize <contain|cover|center> --background "<background-color>"`  
   ⚠️ The path option is mandatory.  
   The background color defaults to white
 
